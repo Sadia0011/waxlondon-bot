@@ -1,1 +1,275 @@
-{"type":"header","name":"Header","sections":{"announcement":{"type":"announcement","blocks":{"text_VbCV4n":{"type":"text","settings":{"text":"<p>Free shipping to Bangladesh on orders over Tk 31,190<\/p>","target_url_enabled":false,"target_url":"","target_referrer_enabled":false,"target_referrer":"","target_device_enabled":false,"target_device":"mobile"}}},"block_order":["text_VbCV4n"],"settings":{"show_border":false,"layout":"slider","slider_speed":7,"text_alignment":"center","show_arrows":false,"marquee_speed":100,"message_spacing":10,"text_size":3,"bg_color":"#dedede","color":"#000000","padding_top":0,"padding_bottom":0}},"header":{"type":"header","blocks":{"toolbar":{"type":"toolbar","disabled":true,"settings":{"text":"<p>Toolbar<\/p>","menu":"","show_border":false,"border_opacity":50,"show_social_links":true,"show_gift_card":true,"show_locale_selector":true,"show_country_selector":true,"show_country_name":false,"show_country_flag":true,"bg_color":"#fafafa","color":"","padding_top":0,"padding_bottom":0}},"image_LyATyz":{"type":"image","settings":{"position":"1","image":"shopify:\/\/shop_images\/Header_Block_1_ed5deaca-3fef-4bfb-b68e-0ee980f3e7f0_315x230_2x_1.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_mY7EQa":{"type":"image","settings":{"position":"1","image":"shopify:\/\/shop_images\/Header_Block_2_315x230_2x_bd9711a5-e34f-440a-be02-731f9f5b1086.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_q8BWRU":{"type":"image","settings":{"position":"2","image":"shopify:\/\/shop_images\/Category_Block_2_d208fd4f-7be8-4780-8525-f849fb5c1e31.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_TyYm9x":{"type":"image","settings":{"position":"2","image":"shopify:\/\/shop_images\/Category_Block_3_4c953050-a693-4869-bda0-0add0d61346b.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_3pwWYB":{"type":"image","settings":{"position":"3","image":"shopify:\/\/shop_images\/All_Accessories_315x230_2x_25eec678-17d3-46ec-9b1e-8c33dcaa5165.jpg","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_GRydAc":{"type":"image","settings":{"position":"3","image":"shopify:\/\/shop_images\/Hats_315x230_2x_823cae5f-4b14-4abc-9d6d-c87e252cfb86.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_FHXBkY":{"type":"image","settings":{"position":"4","image":"shopify:\/\/shop_images\/Footwear_2_315x230_2x_39f1da2f-6d04-4143-9c80-a7edaaba49ce.jpg","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_mReECG":{"type":"image","settings":{"position":"4","image":"shopify:\/\/shop_images\/Trainers_315x230_2x_a923d88b-b37b-4ce7-a9a5-fae7c6e54d6b.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_emjhkX":{"type":"image","settings":{"position":"5","image":"shopify:\/\/shop_images\/Untitled-1_315x230_2x_4a887df3-07a0-4e26-96fc-83aa540af7a9.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}},"image_w9CMWD":{"type":"image","settings":{"position":"5","image":"shopify:\/\/shop_images\/v3_Archive_Sale_Site_Image_315x230_2x_0925603e-c106-4b8f-9ca5-0af00b00c41d.webp","aspect_ratio":1,"wide_image":true,"overlay_opacity":0,"overlay_color":"#000000","title":"","link_text":"","link":"","text_color":""}}},"block_order":["toolbar","image_LyATyz","image_mY7EQa","image_q8BWRU","image_TyYm9x","image_3pwWYB","image_GRydAc","image_FHXBkY","image_mReECG","image_emjhkX","image_w9CMWD"],"settings":{"header_sticky":false,"header_style":"logo_beside","show_separator_line":false,"separator_opacity":50,"show_icons":true,"icon_as_circle":false,"cart_icon_family":"bag","logo":"{{ shop.brand.logo }}","logo_max_limit":120,"logo_max_limit_mobile":120,"main_menu_linklist":"","mobile_menu_linklist":"","enable_search":true,"show_social_icons":false,"button_text":"","button_link":"","button_type":"btn--primary","show_locale_selector":true,"show_country_selector":true,"show_country_name":false,"show_country_flag":true,"highlight_item":"Sale","highlight_item_color":"#d02e2e","transparent_home":false,"transparent_product_page":false,"transparent_collection":false,"transparent_article":false,"transparent_page":false,"secondary_menu_linklist":"","tertiary_menu_linklist":"","padding_top":15,"padding_bottom":15}}},"order":["announcement","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "text_VbCV4n": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Free shipping to Bangladesh on orders over Tk 31,190</p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "text_VbCV4n"
+      ],
+      "settings": {
+        "show_border": false,
+        "layout": "slider",
+        "slider_speed": 7,
+        "text_alignment": "center",
+        "show_arrows": false,
+        "marquee_speed": 100,
+        "message_spacing": 10,
+        "text_size": 3,
+        "bg_color": "#dedede",
+        "color": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "toolbar": {
+          "type": "toolbar",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Toolbar</p>",
+            "menu": "",
+            "show_border": false,
+            "border_opacity": 50,
+            "show_social_links": true,
+            "show_gift_card": true,
+            "show_locale_selector": true,
+            "show_country_selector": true,
+            "show_country_name": false,
+            "show_country_flag": true,
+            "bg_color": "#fafafa",
+            "color": "",
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        },
+        "image_LyATyz": {
+          "type": "image",
+          "settings": {
+            "position": "1",
+            "image": "shopify://shop_images/Header_Block_1_315x230_2x_adf7fcb8-d700-44f5-bf54-2b607495c326.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_mY7EQa": {
+          "type": "image",
+          "settings": {
+            "position": "1",
+            "image": "shopify://shop_images/Category_Block_1_774b1a26-9900-4fe2-9d38-968443c15de0.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_q8BWRU": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Category_Block_2_d208fd4f-7be8-4780-8525-f849fb5c1e31.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_TyYm9x": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Category_Block_3_4c953050-a693-4869-bda0-0add0d61346b.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_3pwWYB": {
+          "type": "image",
+          "settings": {
+            "position": "3",
+            "image": "shopify://shop_images/All_Accessories_315x230_2x_49b9c1d9-f3d3-47da-8f82-b386b016d7b8.jpg",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_GRydAc": {
+          "type": "image",
+          "settings": {
+            "position": "3",
+            "image": "shopify://shop_images/Hats_315x230_2x_e12c83c5-42a4-4630-a363-3b0ff98f4e65.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_FHXBkY": {
+          "type": "image",
+          "settings": {
+            "position": "4",
+            "image": "shopify://shop_images/Trainers_315x230_2x_9a7fa40d-cf06-4435-ba77-b786bd98f302.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_mReECG": {
+          "type": "image",
+          "settings": {
+            "position": "4",
+            "image": "shopify://shop_images/Footwear_2_315x230_2x_a64a57b2-f23b-4404-a66f-7e42513417e9.jpg",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_emjhkX": {
+          "type": "image",
+          "settings": {
+            "position": "5",
+            "image": "shopify://shop_images/Untitled-1_315x230_2x_486ba800-511c-4834-9c32-0aaa27df7a58.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_w9CMWD": {
+          "type": "image",
+          "settings": {
+            "position": "5",
+            "image": "shopify://shop_images/v3_Archive_Sale_Site_Image_315x230_2x_06058479-56f6-42ce-9e3e-6dd9dfc20c79.webp",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "shopify://collections/archive-sale",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "toolbar",
+        "image_LyATyz",
+        "image_mY7EQa",
+        "image_q8BWRU",
+        "image_TyYm9x",
+        "image_3pwWYB",
+        "image_GRydAc",
+        "image_FHXBkY",
+        "image_mReECG",
+        "image_emjhkX",
+        "image_w9CMWD"
+      ],
+      "settings": {
+        "header_sticky": false,
+        "header_style": "logo_beside",
+        "show_separator_line": false,
+        "separator_opacity": 50,
+        "show_icons": true,
+        "icon_as_circle": false,
+        "cart_icon_family": "bag",
+        "logo": "{{ shop.brand.logo }}",
+        "logo_max_limit": 120,
+        "logo_max_limit_mobile": 120,
+        "main_menu_linklist": "",
+        "mobile_menu_linklist": "",
+        "enable_search": true,
+        "show_social_icons": false,
+        "button_text": "",
+        "button_link": "",
+        "button_type": "btn--primary",
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_name": false,
+        "show_country_flag": true,
+        "highlight_item": "Sale",
+        "highlight_item_color": "#d02e2e",
+        "transparent_home": false,
+        "transparent_product_page": false,
+        "transparent_collection": false,
+        "transparent_article": false,
+        "transparent_page": false,
+        "secondary_menu_linklist": "",
+        "tertiary_menu_linklist": "",
+        "padding_top": 15,
+        "padding_bottom": 15
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}
