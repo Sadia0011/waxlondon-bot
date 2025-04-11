@@ -29,7 +29,7 @@
           "settings": {
             "linklist": "shop",
             "title": "",
-            "column_width": 20,
+            "column_width": 15,
             "enable_accordion": false
           }
         },
@@ -38,7 +38,7 @@
           "settings": {
             "linklist": "help-info",
             "title": "",
-            "column_width": 20,
+            "column_width": 15,
             "enable_accordion": false
           }
         },
@@ -47,7 +47,7 @@
           "settings": {
             "linklist": "about",
             "title": "",
-            "column_width": 10,
+            "column_width": 15,
             "enable_accordion": false
           }
         },
@@ -56,7 +56,7 @@
           "settings": {
             "title": "Social",
             "text": "",
-            "column_width": 7,
+            "column_width": 15,
             "enable_follow_on_shop": false,
             "enable_accordion": false
           }
