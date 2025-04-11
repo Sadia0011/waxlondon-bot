@@ -229,7 +229,7 @@
         "button_size": "",
         "button_style": "btn--solid",
         "show_arrow": false,
-        "featured_collection": "ss25-collection-1",
+        "featured_collection": "ss25-collection",
         "layout_desktop": "grid",
         "grid": 4,
         "rows": 2,
