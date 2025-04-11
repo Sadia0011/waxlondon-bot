@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "link_text": "Shop All SS25",
-            "link": "shopify://collections/ss25-collection-1",
+            "link": "shopify://collections/ss25-collection",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--solid",
