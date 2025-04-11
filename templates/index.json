@@ -1,1 +1,338 @@
-{"sections":{"section_hero_yFD37C":{"type":"section-hero","blocks":{"text_xgKQRY":{"type":"text","settings":{"description":"Embrace The World","text_size":5,"text_style":"font-body"}},"heading_BrL3JM":{"type":"heading","settings":{"title":"SS25 Collection","heading_size":11}},"button_UtRNmg":{"type":"button","settings":{"link_text":"Shop All SS25","link":"shopify:\/\/collections\/ss25-collection-1","button_type":"btn--white","button_size":"","button_style":"btn--solid","show_arrow":false}},"button_8nK7BB":{"type":"button","settings":{"link_text":"Shop Overshirts","link":"shopify:\/\/collections\/overshirts","button_type":"btn--white","button_size":"","button_style":"btn--solid","show_arrow":false}}},"block_order":["text_xgKQRY","heading_BrL3JM","button_UtRNmg","button_8nK7BB"],"custom_css":[".btn {border-radius: 30px;}"],"settings":{"height":"screen-height-three-quarters","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/Overshirts_Desktop_Banner_1920x_91cdfcc2-46eb-4a57-be3a-527cd40d8120.webp","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--middle-center-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff","show_placeholder":true,"padding_top":0,"padding_bottom":0}},"section_collection_9zYwak":{"type":"section-collection","custom_css":[],"settings":{"heading":"","description":"","layout":"inline","link_text":"","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"featured_collection":"knitwear","layout_desktop":"grid","grid":4,"rows":2,"width":"wrapper--full-padded","layout_mobile":"slider","bg_color":"","color":"","padding_top":30,"padding_bottom":30}},"section_collections_list_qYgedA":{"type":"section-collections-list","blocks":{"collection_znJaAf":{"type":"collection","settings":{"collection":"overshirts","collection_image":"shopify:\/\/shop_images\/Category_Block_1_774b1a26-9900-4fe2-9d38-968443c15de0.webp","title":""}},"collection_XDMTtN":{"type":"collection","settings":{"collection":"new-arrivals","collection_image":"shopify:\/\/shop_images\/Category_Block_2_d208fd4f-7be8-4780-8525-f849fb5c1e31.webp","title":""}},"collection_Xa99qg":{"type":"collection","settings":{"collection":"knitwear","collection_image":"shopify:\/\/shop_images\/Category_Block_3_4c953050-a693-4869-bda0-0add0d61346b.webp","title":""}}},"block_order":["collection_znJaAf","collection_XDMTtN","collection_Xa99qg"],"settings":{"title":"","description":"","button_text":"","button_url":"shopify:\/\/collections","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"layout":"grid","aspect_ratio":1.5,"grid":3,"layout_mobile":"slider","bg_color":"","color":"","padding_top":0,"padding_bottom":32}},"section_collection_yYytMX":{"type":"section-collection","settings":{"heading":"","description":"","layout":"inline","link_text":"","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"featured_collection":"suits-tailoring","layout_desktop":"grid","grid":4,"rows":1,"width":"wrapper--full-padded","layout_mobile":"slider","bg_color":"","color":"","padding_top":0,"padding_bottom":30}},"section_hero_nadzdX":{"type":"section-hero","blocks":{"button_rATyqB":{"type":"button","settings":{"link_text":"Shop All","link":"shopify:\/\/collections\/all","button_type":"btn--white","button_size":"","button_style":"btn--solid","show_arrow":false}}},"block_order":["button_rATyqB"],"custom_css":[".btn {border-radius: 30px;}"],"settings":{"height":"screen-height-three-quarters","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/NLA_Web_Banner_1920x_019739f4-87a8-4341-89ea-bd9e3bd6c64c.webp","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--bottom-center-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff","show_placeholder":true,"padding_top":0,"padding_bottom":0}},"section_collection_TVzpYp":{"type":"section-collection","settings":{"heading":"","description":"","layout":"inline","link_text":"","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"featured_collection":"ss25-collection-1","layout_desktop":"grid","grid":4,"rows":2,"width":"wrapper--full-padded","layout_mobile":"slider","bg_color":"","color":"","padding_top":30,"padding_bottom":30}},"section_hero_PiyDir":{"type":"section-hero","blocks":{"heading_yXyaxd":{"type":"heading","settings":{"title":"Summer Suiting","heading_size":11}},"button_Pqygzt":{"type":"button","settings":{"link_text":"Shop Suits & Tailoring","link":"shopify:\/\/collections\/suits-tailoring","button_type":"btn--white","button_size":"","button_style":"btn--solid","show_arrow":false}},"button_KQj3Xq":{"type":"button","settings":{"link_text":"Shop All","link":"shopify:\/\/collections\/all","button_type":"btn--white","button_size":"","button_style":"btn--solid","show_arrow":false}}},"block_order":["heading_yXyaxd","button_Pqygzt","button_KQj3Xq"],"custom_css":[".btn {border-radius: 30px;}"],"settings":{"height":"screen-height-three-quarters","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/Desktop_Banner_1920x_4e0585f5-65f2-471b-90f6-9cb388ba9761.webp","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--bottom-center-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff","show_placeholder":true,"padding_top":0,"padding_bottom":0}},"section_collection_kJXnUV":{"type":"section-collection","settings":{"heading":"","description":"","layout":"inline","link_text":"","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"featured_collection":"new-arrivals","layout_desktop":"grid","grid":4,"rows":1,"width":"wrapper--full-padded","layout_mobile":"slider","bg_color":"","color":"","padding_top":30,"padding_bottom":30}}},"order":["section_hero_yFD37C","section_collection_9zYwak","section_collections_list_qYgedA","section_collection_yYytMX","section_hero_nadzdX","section_collection_TVzpYp","section_hero_PiyDir","section_collection_kJXnUV"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_hero_yFD37C": {
+      "type": "section-hero",
+      "blocks": {
+        "text_xgKQRY": {
+          "type": "text",
+          "settings": {
+            "description": "Embrace The World",
+            "text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "heading_BrL3JM": {
+          "type": "heading",
+          "settings": {
+            "title": "SS25 Collection",
+            "heading_size": 11
+          }
+        },
+        "button_UtRNmg": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop All SS25",
+            "link": "shopify://collections/ss25-collection-1",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "button_8nK7BB": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop Overshirts",
+            "link": "shopify://collections/overshirts",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_xgKQRY",
+        "heading_BrL3JM",
+        "button_UtRNmg",
+        "button_8nK7BB"
+      ],
+      "custom_css": [
+        ".btn {border-radius: 30px;}"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Overshirts_Desktop_Banner_1920x_45b3ea6c-9196-4cf6-a925-3b01bcd891a7.webp",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_9zYwak": {
+      "type": "section-collection",
+      "custom_css": [],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "knitwear",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 2,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
+    "section_collections_list_qYgedA": {
+      "type": "section-collections-list",
+      "blocks": {
+        "collection_znJaAf": {
+          "type": "collection",
+          "settings": {
+            "collection": "overshirts",
+            "collection_image": "shopify://shop_images/Category_Block_1_774b1a26-9900-4fe2-9d38-968443c15de0.webp",
+            "title": ""
+          }
+        },
+        "collection_XDMTtN": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "collection_image": "shopify://shop_images/Category_Block_2_d208fd4f-7be8-4780-8525-f849fb5c1e31.webp",
+            "title": ""
+          }
+        },
+        "collection_Xa99qg": {
+          "type": "collection",
+          "settings": {
+            "collection": "knitwear",
+            "collection_image": "shopify://shop_images/Category_Block_3_4c953050-a693-4869-bda0-0add0d61346b.webp",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_znJaAf",
+        "collection_XDMTtN",
+        "collection_Xa99qg"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "button_text": "",
+        "button_url": "shopify://collections",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "layout": "grid",
+        "aspect_ratio": 1.5,
+        "grid": 3,
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "section_collection_yYytMX": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "suits-tailoring",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 30
+      }
+    },
+    "section_hero_nadzdX": {
+      "type": "section-hero",
+      "blocks": {
+        "button_rATyqB": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop All",
+            "link": "shopify://collections/all",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "button_rATyqB"
+      ],
+      "custom_css": [
+        ".btn {border-radius: 30px;}"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/NLA_Web_Banner_1920x_0d08319f-9ca4-42ab-95fc-4274554b97fb.webp",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--bottom-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_TVzpYp": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "ss25-collection-1",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 2,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
+    "section_hero_PiyDir": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_yXyaxd": {
+          "type": "heading",
+          "settings": {
+            "title": "Summer Suiting",
+            "heading_size": 11
+          }
+        },
+        "button_Pqygzt": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop Suits & Tailoring",
+            "link": "shopify://collections/suits-tailoring",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "button_KQj3Xq": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop All",
+            "link": "shopify://collections/all",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yXyaxd",
+        "button_Pqygzt",
+        "button_KQj3Xq"
+      ],
+      "custom_css": [
+        ".btn {border-radius: 30px;}"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Desktop_Banner_1920x_32f2f6fb-024d-4e11-9281-a437b154689d.webp",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--bottom-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_kJXnUV": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "new-arrivals",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    }
+  },
+  "order": [
+    "section_hero_yFD37C",
+    "section_collection_9zYwak",
+    "section_collections_list_qYgedA",
+    "section_collection_yYytMX",
+    "section_hero_nadzdX",
+    "section_collection_TVzpYp",
+    "section_hero_PiyDir",
+    "section_collection_kJXnUV"
+  ]
+}
