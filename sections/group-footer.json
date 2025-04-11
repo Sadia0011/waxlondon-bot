@@ -20,7 +20,7 @@
             "image_width": 150,
             "title": "Wax London",
             "text": "<p>Wax London - A British label committed to creating quality, contemporary menswear with sustainability at our core.<br/><br/></p>",
-            "column_width": 45,
+            "column_width": 40,
             "enable_accordion": false
           }
         },
@@ -29,7 +29,7 @@
           "settings": {
             "linklist": "shop",
             "title": "",
-            "column_width": 15,
+            "column_width": 20,
             "enable_accordion": false
           }
         },
@@ -38,7 +38,7 @@
           "settings": {
             "linklist": "help-info",
             "title": "",
-            "column_width": 15,
+            "column_width": 20,
             "enable_accordion": false
           }
         },
